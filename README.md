@@ -60,7 +60,7 @@ Light-DARTS suits automated deployments but requires significant infrastructure.
 
 ---
 
-Code files present in this repo
+Code files present in this repo, here the AASIST model architecture with its pre-trained weight(trained on ASVspoof) is used to train in-the-wild dataset for deepfake AI detection. the model with updated weights after training and evaluating, was then saved and used for testing purpose. 
 
 
 
