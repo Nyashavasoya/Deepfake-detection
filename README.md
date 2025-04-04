@@ -33,3 +33,5 @@ jupyter notebook
 ```
 
 This will open the notebook interface in your default browser where you can run this notebook for training and evaluating purpose
+
+Assignment is in the documentation.md file
