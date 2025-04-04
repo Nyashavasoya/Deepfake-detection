@@ -68,6 +68,9 @@ Code files present in this repo, here the AASIST model architecture with its pre
 
 ---
 
+Accuracy-wise, AASIST performs better than simpler architectures like RawNet2. Additionally, it works well on perturbed (noisy) data due to its attention mechanism. While it may take a few milliseconds longer than RawNet2, it provides better performance for real-time inference.
+Spectro-temporal graph attention detects unnatural harmonics and Heterogeneous graph pooling disrupts gradient-based attacks for adversarial examples
+
 ### 1. Implementation Process
 
 #### Challenges Encountered
